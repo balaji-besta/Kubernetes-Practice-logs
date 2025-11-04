@@ -124,7 +124,6 @@ kubeadm token create --print-join-command
 > The control-plane couldn’t reach those nodes to finish the pod termination. I fixed it by force-deleting the pod and removing the unreachable nodes.
 > This taught me how Kubernetes manages pod lifecycle and node communication."
 
----
 
 
----
+
