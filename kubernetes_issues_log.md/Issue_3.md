@@ -170,7 +170,7 @@ When logging your next issue, copy this structure and replace details as needed:
 
 ---
 
-## 🧾 Proof of Practice
+## 🧾 Practical Verification
 
 Below is a real execution screenshot captured during the troubleshooting session on my Kubernetes cluster.
 
