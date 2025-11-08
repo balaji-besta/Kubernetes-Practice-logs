@@ -9,8 +9,7 @@
 ## 📘 Table of Contents
 | No | Issue Title | Description |
 |----|--------------|--------------|
-| 1️⃣ | [Service not connecting to pods due to different namespace](#1️⃣-issue-service-not-connecting-to-pods-due-to-different-namespace) | 
-Service and pods were deployed in different namespaces, leading to no endpoints. |
+| 1️⃣ | [Service not connecting to pods due to different namespace](#1️⃣-issue-service-not-connecting-to-pods-due-to-different-namespace) | Service and pods were deployed in different namespaces, leading to no endpoints. |
 
 ---
 
