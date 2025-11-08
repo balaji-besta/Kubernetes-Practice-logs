@@ -38,6 +38,7 @@ It also acts as a quick reference for setting up clusters, creating pods, and de
 
 ## 📂 Folder/Content Structure
 
+
 Kubernetes-Practice-logs/
 │
 ├── kubernetes_issues_log.md
@@ -47,6 +48,8 @@ Kubernetes-Practice-logs/
 ├── Issue_3.md
 │
 └── README.md
+
+
 
 
 ## 🚀 About Me
