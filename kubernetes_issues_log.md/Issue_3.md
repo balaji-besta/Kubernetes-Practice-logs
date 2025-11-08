@@ -152,10 +152,36 @@ Because Services cannot cross namespace boundaries, it found **no matching pods*
 
 ---
 
-
+### 🧩 Notes for Future Logs
+When logging your next issue, copy this structure and replace details as needed:  
+1. Clear issue title  
+2. Environment context  
+3. Actual commands + outputs  
+4. Investigation + reasoning  
+5. Fix + learnings  
+6. Interview summary  
 
 ---
 
 **Author:** Balaji Besta  
 **Purpose:** Real-world troubleshooting log for Kubernetes practice and DevOps interview preparation.  
+**Last Updated:** November 9, 2025
+
+
+---
+
+## 🧾 Proof of Practice
+
+Below is a real execution screenshot captured during the troubleshooting session on my Kubernetes cluster.
+
+![Service Namespace Practice Proof](Service.png)
+
+**Description:**
+- The screenshot shows successful creation of the Service in the `prod` namespace.
+- Verified endpoints (`10.36.0.2`, `10.36.0.1`, `10.44.0.1`) confirm that the service correctly linked to 3 running pods.
+- Confirms real, hands-on execution — not a copy-paste exercise.
+
+---
+
+**Author:** Balaji Besta  
 **Last Updated:** November 9, 2025
