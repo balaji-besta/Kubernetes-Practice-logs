@@ -61,8 +61,9 @@ I’m **Balaji Best** a, a DevOps engineer in training with a strong focus on Ku
 I believe in learning by doing — every issue I encounter becomes a documented case study in my repositories.
 My goal is to build scalable, production-ready systems while maintaining strong debugging and automation skills.
 I value clean documentation, reproducible setups, and continuous improvement — the same principles I bring to every team and project.
-🚀 Current Focus
 
+
+🚀 Current Focus
 Practicing Kubernetes on AWS EC2, mastering CI/CD pipelines, and preparing for real-world DevOps roles such as Junior DevOps Engineer or Cloud Engineer.
 
 
