@@ -19,7 +19,7 @@
 
 ### 🧩 2️⃣ Environment / Context  
 - **Cluster type:** Kubeadm cluster on AWS EC2  
-- **Nodes:** 1 control-plane (Ubuntu EC2)  
+- **Nodes:** 1 control-plane + 2 worker nodes  
 - **Kubernetes version:** v1.29  
 - **Container runtime:** containerd  
 - **Cloud/OS:** AWS EC2 / Ubuntu 22.04  
