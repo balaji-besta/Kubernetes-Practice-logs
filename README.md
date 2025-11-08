@@ -38,9 +38,22 @@ It also acts as a quick reference for setting up clusters, creating pods, and de
 
 ## 📂 Folder/Content Structure
 
-Kubernetes-Practice-logs/
 
-├── kubernetes_issues_log.md
+
+If you want to make it **clickable in GitHub**, use this Markdown version:
+
+```markdown
+## 📁 Folder Structure
+
+- [Kubernetes-Practice-logs/](.)
+  
+  - [kubernetes_issues_log.md](kubernetes_issues_log.md)
+  - [Issue_1.md](Issue_1.md)
+  - [Issue_2.md](Issue_2.md)
+  - [Issue_3.md](Issue_3.md)
+  - [README.md](README.md)
+
+
 
 
 
