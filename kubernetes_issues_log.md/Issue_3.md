@@ -176,6 +176,7 @@ Below is a real execution screenshot captured during the troubleshooting session
 
 ![Service Namespace Practice Proof](Command-Outputs/Issue_3.png)
 
+
 **Description:**
 - The screenshot shows successful creation of the Service in the `prod` namespace.
 - Verified endpoints (`10.36.0.2`, `10.36.0.1`, `10.44.0.1`) confirm that the service correctly linked to 3 running pods.
