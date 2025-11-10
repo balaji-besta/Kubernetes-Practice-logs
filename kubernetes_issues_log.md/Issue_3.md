@@ -174,7 +174,7 @@ When logging your next issue, copy this structure and replace details as needed:
 
 Below is a real execution screenshot captured during the troubleshooting session on my Kubernetes cluster.
 
-![Service Namespace Practice Proof](Issue_3.png)
+![Service Namespace Practice Proof](Command-Outputs/Issue_3.png)
 
 **Description:**
 - The screenshot shows successful creation of the Service in the `prod` namespace.
